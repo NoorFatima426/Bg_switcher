@@ -1,0 +1,46 @@
+.one{
+    margin-top: 100px;
+    text-shadow: 2px  2px pink;
+    color: teal;
+}
+.buttons{
+    border:1ps solid black;
+    font-family: serif;
+}
+.end{
+    text-align: center;
+}
+.btn-main{
+   text-align: center;
+   gap:30px;
+   flex-wrap: wrap;
+}
+#pink{
+    background-color: pink;
+}
+#plum{
+    background-color: plum;
+}
+#paleturquoise{
+    background-color: paleturquoise;
+}
+#palegreen{
+    background-color: palegreen;
+}
+#peachpuff{
+    background-color: peachpuff;
+}
+#peru{
+    background-color: peru;
+}
+#olive{
+    background-color: olive;
+    color: #fff;
+}
+#teal{
+    background-color: teal;
+    color: #fff;
+}
+#gold{
+    background-color: gold;
+}
